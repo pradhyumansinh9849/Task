@@ -39,11 +39,12 @@ export default StyleSheet.create({
     height: 40,
     justifyContent: 'center',
     alignItems: 'center',
+    alignSelf: 'center',
   },
   addButtonText: {
     fontSize: 30,
     fontWeight: 'bold',
-    
+    textAlign: 'center'
   },
   input: {
     borderWidth: 1,
